@@ -1,0 +1,60 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project2.PrjPCB|ReportField=ProjectFullPath~D:\单片机\STM32温度控制系统\PCB_Project2.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=TotalQuantity~138|ReportField=ReportTime~11:22:37|ReportField=ReportDate~2018/3/27|ReportField=ReportDateTime~2018/3/27 11:22:37|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~D:\单片机\STM32温度控制系统\PCB1.PcbDoc
+BATT||BAT1|BATM|BAT|1
+104||C1, C3, C6, C8, C11, C12, C13, C14, C18, C20, C21, C22, C23, C24, C25, C26, C27, C28, C30, C32, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C47, C48, C49, C50, C51, C52, C53|0805|C, CAP, Cap1|38
+10uf||C2, C7|0805|C|2
+22||C4, C5, C9, C10|0805|C|4
+10uF||C15|CASE-3216A|Cap2|1
+22uF||C16|RVT 22UF 25V|Cap2|1
+100uF||C17, C19, C29|CC8*10.5|Cap3|3
+100uF||C31, C46|rvt 100uf /25V|Cap3|2
+Cap|Capacitor|C45|0805|Cap|1
+1N4148||D1, D2, D3|DIODE_SOP|D|3
+1N4733|Schottky Rectifier|D4, D11|LC-DO-41|Diode 18TQ045|2
+POWER||D5|SMDLED|LED1|1
+LINK||D6|SMDLED|LED1|1
+READY||D7|SMDLED|LED1|1
+SERIAL||D8|SMDLED|LED1|1
+1N5822|Zener Diode|D12|1n5822|ZENER3|1
+LED1|Typical RED, GREEN, YELLOW, AMBER GaAs LED|DS1, DS2|SMDLED|LED2|2
+JTAG||JTAG|JTAG_20|JTAG|1
+Jumper||JUMP1|HDR1X2|Jumper|1
+Header 2|Header, 2-Pin|K2|HDR1X2|Header 2|1
+KEY_M||KEY0, KEY1, RESET|KEY_M|KEY_M|3
+33uH||L1|100UH|L|1
+TFT4.3||LCD|DB2*17-3.5|TFT_LCD2|1
+LM2596S-5.0||LM2|LM2596S-5.0|12V-5V|1
+PT100 TL|Header, 3-Pin|P2|3SPI|Header 3|1
+PT100|Header, 2-Pin|P3|2SPI|Header 2|1
+OLED|Header, 8-Pin, Dual row|P4|HDR2X8|Header 8X2|1
+MIC5018||P9|LC-SOT-143|Component_1|1
+Header 2|Header, 2-Pin|P10, P11|2SPI|Header 2|2
+ref2930||p5, p6, p7|LC-SOT-23(SOT-23-3)|ref2930|3
+S8050|8050/BCW846/BCW847|Q1|SOT-23R|NPN|1
+S8550|8550/BCW68|Q2|SOT-23R|PNP|1
+10K||R1, R5, R6, R7, R8, R9, R10, R11, R12, R15, R20|0805|R, Res1|11
+1K||R2, R3, R4, R17, R18, R19, R25, R26, R39|0805|R, Res1|9
+10R||R13|0805|R|1
+1M||R14|0805|R|1
+2K||R16, R28, R29|0805|R, Res1|3
+510||R23, R24|0805|R|2
+20K||R27, R32|0805|R|2
+Res2|Resistor|R31|0805|Res2|1
+0Ω||R33|0805|R|1
+3.3K||R34|0805|R|1
+47K||R35, R36|0805|R|2
+470K||R37, R38|0805|R|2
+4.7K||R41, R42|0805|R|2
+STM32F103ZET6|STM32F103ZET6|U1|LQFP144|STM32F103ZET6|1
+LM358||U2|LC-MSOP-8|LM358|1
+LM324||U3|LC-DIP-14|LM324|1
+IS62WV51216||U4|TSOP44|IS61LV51216|1
+AMS1117M3||U5|LC-SOT-223|AMS1117-3.3|1
+WIFI||U6|USR-WIFI232|USR-WIFI232-ABD|1
+24C02||U7|SOP-8|24C256|1
+CH340G|USB2UART|U8|SOP16M|CH340G|1
+IRF7103PbF||U9, U10|LC-SOIC-8_150mil|IRF7103PbF|2
+USB||USB_232|USB/SM0.8-6H5|USB5|1
+502|Potentiometer|VR2|503|RPot|1
+8MHz|Crystal Oscillator|Y1|XTAL_US|XTAL|1
+32.768MHz|Crystal Oscillator|Y2|XTAL32|XTAL|1
+12MHz|Crystal Oscillator|Y3|XTAL_US|XTAL|1

@@ -1,0 +1,19 @@
+Added Component: Designator=P4(HDR2X8)
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=VCC3.3 Pin=P4-2
+Added Pin To Net: NetName=OLED_DC Pin=P4-3
+Added Pin To Net: NetName=OLED_CS Pin=P4-4
+Added Pin To Net: NetName=OLED_RD Pin=P4-5
+Added Pin To Net: NetName=OLED_RW Pin=P4-6
+Added Pin To Net: NetName=OV D0 Pin=P4-7
+Added Pin To Net: NetName=OLED_RST Pin=P4-8
+Added Pin To Net: NetName=OV D2 Pin=P4-9
+Added Pin To Net: NetName=OV D1 Pin=P4-10
+Added Pin To Net: NetName=OV D4 Pin=P4-11
+Added Pin To Net: NetName=OV D3 Pin=P4-12
+Added Pin To Net: NetName=OV D6 Pin=P4-13
+Added Pin To Net: NetName=OV D5 Pin=P4-14
+Added Pin To Net: NetName=OV D7 Pin=P4-16
+Added Pin To Net: NetName=NetQ3_2 Pin=R43-1
+Added Member To Class: ClassName=Sheet2 Member=Component P4 OLED
+Added Room: Name=Sheet2

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=IIC_SCL Pin=U1-136
+Added Pin To Net: NetName=IIC_SDA Pin=U1-137
+Added Room: Name=Sheet2

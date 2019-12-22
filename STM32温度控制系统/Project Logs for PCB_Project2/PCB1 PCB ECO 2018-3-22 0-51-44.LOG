@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=PT100_ADC2 Pin=D11-K
+Added Pin To Net: NetName=VCC3.3 Pin=U7-8
+Added Room: Name=Sheet2

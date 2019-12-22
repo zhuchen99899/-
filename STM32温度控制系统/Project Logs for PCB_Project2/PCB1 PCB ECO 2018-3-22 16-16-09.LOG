@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=D4-A
+Removed Pin From Net: NetName=GND Pin=D11-A
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=NetP6_1 Pin=p6-1
+Removed Pin From Net: NetName=GND Pin=p6-2
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P8-2
+Removed Pin From Net: NetName=VCC5 Pin=R30-1
+Removed Pin From Net: NetName=NetP6_1 Pin=R30-2
+Removed Pin From Net: NetName=VCC5 Pin=R33-1
+Removed Pin From Net: NetName=GND Pin=R34-2
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=VCC5 Pin=R43-1
+Removed Pin From Net: NetName=GND Pin=U1-31
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U3-11
+Removed Pin From Net: NetName=NetP6_1 Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-2
+Removed Pin From Net: NetName=NetP6_3 Pin=VR1-3
+Removed Pin From Net: NetName=GND Pin=VR3-2
+Removed Pin From Net: NetName=GND Pin=VR4-2
+Removed Member From Class: ClassName=Sheet2 Member=C33
+Removed Member From Class: ClassName=Sheet2 Member=P8
+Removed Member From Class: ClassName=Sheet2 Member=R30
+Removed Member From Class: ClassName=Sheet2 Member=R43
+Removed Member From Class: ClassName=Sheet2 Member=VR1
+Removed Member From Class: ClassName=Sheet2 Member=VR3
+Removed Member From Class: ClassName=Sheet2 Member=VR4
+Change Component DesignItemId : Designator=p6 Old DesignItemId=Component_1 New DesignItemId=ref2930
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Component_1 New DesignItemId=ref2930
+Change Component DesignItemId : Designator=R33 Old DesignItemId=Res2 New DesignItemId=R
+Change Component Footprint: Designator=p6 Old Footprint=LC-TO-92(TO-92-3) New Footprint=LC-SOT-23(SOT-23-3)
+Change Component Footprint: Designator=P7 Old Footprint=LC-TO-92(TO-92-3) New Footprint=LC-SOT-23(SOT-23-3)
+Change Component Comment : Designator=R33 Old Comment=Res2 New Comment=0¦¸
+Change Component Comment : Designator=p6 Old Comment=tl431 New Comment=ref2930
+Change Component Comment : Designator=P7 Old Comment=tl431 New Comment=ref2930
+Change Component Designator: OldDesignator=Y3 NewDesignator=Y?
+Change Component Description : Designator=R33 Old Description=Resistor New Description=
+Change Component Library : Designator=R33 Old Library=Miscellaneous Devices.IntLib New Library=WARSHIP.SCHLIB
+Added Component: Designator=C48(0805)
+Added Component: Designator=C49(0805)
+Added Component: Designator=C50(0805)
+Added Component: Designator=C51(0805)
+Added Component: Designator=C52(0805)
+Added Component: Designator=C53(0805)
+Added Component: Designator=p5(LC-SOT-23(SOT-23-3))
+Added Pin To Net: NetName=NetP6_3 Pin=C25-2
+Added Pin To Net: NetName=NetP6_3 Pin=C26-1
+Added Pin To Net: NetName=NetP6_3 Pin=C27-2
+Added Pin To Net: NetName=NetP6_3 Pin=C28-1
+Added Pin To Net: NetName=NetP6_3 Pin=C48-1
+Added Pin To Net: NetName=VCC3.3 Pin=C48-2
+Added Pin To Net: NetName=NetP6_3 Pin=C49-1
+Added Pin To Net: NetName=NetP6_1 Pin=C49-2
+Added Pin To Net: NetName=NetP6_3 Pin=C50-1
+Added Pin To Net: NetName=VCC3.3 Pin=C50-2
+Added Pin To Net: NetName=NetP6_3 Pin=C51-1
+Added Pin To Net: NetName=NetP6_1 Pin=C51-2
+Added Pin To Net: NetName=NetP6_3 Pin=C52-1
+Added Pin To Net: NetName=VCC3.3 Pin=C52-2
+Added Pin To Net: NetName=NetP6_3 Pin=C53-1
+Added Pin To Net: NetName=NetP6_1 Pin=C53-2
+Added Pin To Net: NetName=VCC3.3 Pin=D2-1
+Added Pin To Net: NetName=NetP6_3 Pin=D4-A
+Added Pin To Net: NetName=NetP6_3 Pin=D11-A
+Added Pin To Net: NetName=NetP6_3 Pin=P2-1
+Added Pin To Net: NetName=VCC3.3 Pin=p5-1
+Added Pin To Net: NetName=NetP6_1 Pin=p5-2
+Added Pin To Net: NetName=NetP6_3 Pin=p5-3
+Added Pin To Net: NetName=VCC3.3 Pin=p6-1
+Added Pin To Net: NetName=NetP6_1 Pin=p6-2
+Added Pin To Net: NetName=VCC3.3 Pin=P7-1
+Added Pin To Net: NetName=NetP6_1 Pin=P7-2
+Added Pin To Net: NetName=NetP6_3 Pin=P7-3
+Added Pin To Net: NetName=NetP6_3 Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R33-2
+Added Pin To Net: NetName=NetP6_3 Pin=R34-2
+Added Pin To Net: NetName=NetP6_3 Pin=R37-1
+Added Pin To Net: NetName=VCC3.3 Pin=U1-17
+Added Pin To Net: NetName=NetP6_3 Pin=U1-31
+Added Pin To Net: NetName=NetP6_1 Pin=U1-32
+Added Pin To Net: NetName=VCC3.3 Pin=U1-39
+Added Pin To Net: NetName=VCC3.3 Pin=U1-52
+Added Pin To Net: NetName=VCC3.3 Pin=U1-62
+Added Pin To Net: NetName=VCC3.3 Pin=U1-72
+Added Pin To Net: NetName=VCC3.3 Pin=U1-84
+Added Pin To Net: NetName=VCC3.3 Pin=U1-95
+Added Pin To Net: NetName=VCC3.3 Pin=U1-108
+Added Pin To Net: NetName=VCC3.3 Pin=U1-121
+Added Pin To Net: NetName=VCC3.3 Pin=U1-131
+Added Pin To Net: NetName=VCC3.3 Pin=U1-144
+Added Pin To Net: NetName=NetP6_1 Pin=U2-3
+Added Pin To Net: NetName=NetP6_3 Pin=U2-4
+Added Pin To Net: NetName=NetP6_3 Pin=U3-11
+Change Net Name : Old Net Name=NetP6_1 New Net Name=REF1
+Change Net Name : Old Net Name=NetP6_3 New Net Name=AGND
+Added Member To Class: ClassName=Sheet2 Member=Component C48 104
+Added Member To Class: ClassName=Sheet2 Member=Component C49 104
+Added Member To Class: ClassName=Sheet2 Member=Component C50 104
+Added Member To Class: ClassName=Sheet2 Member=Component C51 104
+Added Member To Class: ClassName=Sheet2 Member=Component C52 104
+Added Member To Class: ClassName=Sheet2 Member=Component C53 104
+Added Member To Class: ClassName=Sheet2 Member=Component p5 ref2930
+Added Room: Name=Sheet2

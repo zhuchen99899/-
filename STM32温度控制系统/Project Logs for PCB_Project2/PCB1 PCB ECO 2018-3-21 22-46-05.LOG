@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetC10_2 Pin=Y1-2
+Removed Pin From Net: NetName=NetU8_8 Pin=Y?-1
+Removed Pin From Net: NetName=NetC5_2 Pin=Y?-2
+Added Pin To Net: NetName=NetU8_8 Pin=C4-2
+Added Pin To Net: NetName=NetC10_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC9_2 Pin=Y1-2
+Added Pin To Net: NetName=NetC5_2 Pin=Y?-1
+Added Pin To Net: NetName=NetU8_8 Pin=Y?-2
+Change Net Name : Old Net Name=NetU8_8 New Net Name=NetC4_2
+Added Room: Name=Sheet2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetDS1_1 Pin=DS1-1
+Removed Pin From Net: NetName=LED1 Pin=DS1-2
+Removed Pin From Net: NetName=NetDS2_1 Pin=DS2-1
+Removed Pin From Net: NetName=GND Pin=DS2-2
+Change Component Footprint: Designator=DS1 Old Footprint= New Footprint=SMDLED
+Change Component Footprint: Designator=DS2 Old Footprint= New Footprint=SMDLED
+Change Net Name : Old Net Name=NetDS1_1 New Net Name=NetDS1_A
+Change Net Name : Old Net Name=NetDS2_1 New Net Name=NetDS2_A
+Added Room: Name=Sheet2

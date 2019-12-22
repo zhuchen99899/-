@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=LM2 Old Footprint=LC-TO-263-5 New Footprint=LM2596S-5.0
+Change Net Name : Old Net Name=SOURCE New Net Name=GND
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2

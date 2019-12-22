@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=Netp6_CATHODE Pin=p6-1
+Added Pin To Net: NetName=GND Pin=p6-2
+Added Pin To Net: NetName=Netp6_REF Pin=p6-3
+Added Pin To Net: NetName=NetP7_CATHODE Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=NetP7_REF Pin=P7-3
+Added Pin To Net: NetName=VREF+ Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=NetP8_REF Pin=P8-3
+Change Net Name : Old Net Name=Netp6_CATHODE New Net Name=NetP6_1
+Change Net Name : Old Net Name=Netp6_REF New Net Name=NetP6_3
+Change Net Name : Old Net Name=NetP7_CATHODE New Net Name=NetP7_1
+Change Net Name : Old Net Name=NetP7_REF New Net Name=NetP7_3
+Change Net Name : Old Net Name=NetP8_REF New Net Name=NetP8_3
+Added Room: Name=Sheet2

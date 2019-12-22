@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VCC5 Pin=C17-A
+Removed Pin From Net: NetName=VCC5 Pin=C18-2
+Removed Pin From Net: NetName=VCC5 Pin=C19-A
+Removed Pin From Net: NetName=VCC5 Pin=C20-2
+Removed Pin From Net: NetName=VCC5 Pin=C29-A
+Removed Pin From Net: NetName=VCC5 Pin=C30-1
+Removed Pin From Net: NetName=VCC5 Pin=LM2-1
+Removed Pin From Net: NetName=VCC5 Pin=P10-1
+Removed Pin From Net: NetName=VCC5 Pin=P11-2
+Added Component: Designator=K2(HDR1X2)
+Added Pin To Net: NetName=VCC5 Pin=K2-2
+Added Pin To Net: NetName=24V Pin=C17-A
+Added Pin To Net: NetName=24V Pin=C18-2
+Added Pin To Net: NetName=24V Pin=C19-A
+Added Pin To Net: NetName=24V Pin=C20-2
+Added Pin To Net: NetName=24V Pin=C29-A
+Added Pin To Net: NetName=24V Pin=C30-1
+Added Pin To Net: NetName=24V Pin=K2-1
+Added Pin To Net: NetName=24V Pin=LM2-1
+Added Pin To Net: NetName=24V Pin=P10-1
+Added Pin To Net: NetName=24V Pin=P11-2
+Added Net: Name=24V
+Added Member To Class: ClassName=Sheet2 Member=Component K2 Header 2
+Added Room: Name=Sheet2

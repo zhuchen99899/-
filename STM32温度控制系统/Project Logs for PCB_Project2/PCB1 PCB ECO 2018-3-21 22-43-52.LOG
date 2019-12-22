@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC23_2 Pin=Y2-1
+Removed Pin From Net: NetName=NetC24_2 Pin=Y2-2
+Change Component Designator: OldDesignator=Y3 NewDesignator=Y?
+Added Pin To Net: NetName=NetC24_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC23_2 Pin=Y2-2
+Added Room: Name=Sheet2

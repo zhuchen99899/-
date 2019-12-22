@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=VCC3.3 Pin=D5-A
+Added Pin To Net: NetName=NetD5_K Pin=D5-K
+Added Pin To Net: NetName=VCC3.3 Pin=D6-A
+Added Pin To Net: NetName=NetD6_K Pin=D6-K
+Added Pin To Net: NetName=VCC3.3 Pin=D7-A
+Added Pin To Net: NetName=NetD7_K Pin=D7-K
+Added Pin To Net: NetName=VCC3.3 Pin=D8-A
+Added Pin To Net: NetName=NetD8_K Pin=D8-K
+Added Pin To Net: NetName=NetDS1_A Pin=DS1-A
+Added Pin To Net: NetName=LED1 Pin=DS1-K
+Added Pin To Net: NetName=NetDS2_A Pin=DS2-A
+Added Pin To Net: NetName=GND Pin=DS2-K
+Added Room: Name=Sheet2

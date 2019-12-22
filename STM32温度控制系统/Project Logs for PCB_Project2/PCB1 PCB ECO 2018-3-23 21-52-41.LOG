@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VREF+ Pin=C49-2
+Removed Pin From Net: NetName=VREF+ Pin=C51-2
+Removed Pin From Net: NetName=VREF+ Pin=p5-2
+Removed Pin From Net: NetName=VREF+ Pin=p6-2
+Removed Pin From Net: NetName=VREF+ Pin=R28-2
+Removed Pin From Net: NetName=VREF+ Pin=R29-2
+Removed Pin From Net: NetName=VREF+ Pin=U2-3
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=p5-2
+Added Pin To Net: NetName=NetC49_2 Pin=R28-2
+Added Pin To Net: NetName=NetC49_2 Pin=R29-2
+Added Net: Name=NetC49_2
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC51_2 Pin=p6-2
+Added Pin To Net: NetName=NetC51_2 Pin=U2-3
+Added Net: Name=NetC51_2
+Added Room: Name=Sheet2
