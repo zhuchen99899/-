@@ -1,0 +1,74 @@
+C51 COMPILER V7.06   BEEP                                                                  01/15/2018 17:29:13 PAGE 1   
+
+
+C51 COMPILER V7.06, COMPILATION OF MODULE BEEP
+OBJECT MODULE PLACED IN BEEP.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE BEEP.c BROWSE DEBUG OBJECTEXTEND
+
+stmt level    source
+
+   1          #include "stc12c5a60s2.h"
+   2          #include <config.h>
+   3          #include <stdio.h>
+   4          #include <intrins.h>
+   5          #include <string.h>
+   6          #include <Delay.h>
+   7          #include<beep.h>
+   8          
+   9          
+  10          void bee1(void)
+  11          
+  12          {
+  13   1      beep=1;
+  14   1      Delaybeep();
+*** WARNING C206 IN LINE 14 OF BEEP.C: 'Delaybeep': missing function-prototype
+  15   1      beep=0;
+  16   1      Delaybeep();
+  17   1      
+  18   1      }
+  19          
+  20          /*
+  21          void beep1(void)
+  22          
+  23          {
+  24          
+  25          beep=1;
+  26          Delay100ms();
+  27          beep=0;
+  28          Delay100ms();
+  29          }
+  30          
+  31          void beep2(void)
+  32          {
+  33          
+  34          beep=1;
+  35          Delay300ms();
+  36          beep=0;
+  37          Delay300ms();
+  38          
+  39          }
+  40          void beep3(void)
+  41          {
+  42          beep=1;
+  43          Delay500ms();
+  44          beep=0;
+  45          Delay500ms();
+  46          
+  47          }
+  48          */
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =     10    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+C51 COMPILER V7.06   BEEP                                                                  01/15/2018 17:29:13 PAGE 2   
+
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  1 WARNING(S),  0 ERROR(S)
